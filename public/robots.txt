@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://31degreesnorth.in
+
+# Sitemaps
+Sitemap: https://31degreesnorth.in/sitemap.xml
